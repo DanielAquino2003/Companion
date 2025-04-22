@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.env
+
+# Archivos y carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Carpeta de memoria vectorial
+memory/
+
+# Archivos de configuración locales o sensibles
+*.env
+
+# Archivos de logs (opcional)
+*.log
+
+# Archivos del editor (opcional)
+.vscode/
+.idea/
+
